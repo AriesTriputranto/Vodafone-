@@ -1,3 +1,3 @@
 # Vodafone-
-https://en.wikipedia.org/Wiki/Vodafone-Ukraina
+https://en.wikipedia.org/wiki/Vodafone.Ukraina
 Code USSD Vodafone Ukraina
